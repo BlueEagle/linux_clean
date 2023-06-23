@@ -1,0 +1,4 @@
+#!/bin/zsh
+echo "Cleaning all dangling symlinks..."
+sudo symlinks -rd /
+
